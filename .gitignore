@@ -1,11 +1,13 @@
-# Extracted / generated files
-*_extracted/
-*_test/
-*_repacked.bml
-*_preview.png
-
 # Common image scratch files
-*.tmp.png
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.webp
+
+# Library files
+*.bml
 
 # Python
 __pycache__/
